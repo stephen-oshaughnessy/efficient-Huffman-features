@@ -5,24 +5,12 @@ eHf is a library that converts input data from any format into a feature vector 
 
 ## Features
 
-- Parse data in any format into a feature vector
 - Fast runtime computation
 - Represents data in a compressed format, using a modified Huffman coding algorithm
-- Vectors are generated as numpy arrays, so are "out of the box" ready to pass to classification algorithms
-
-## Installation
-
-eHf requires [numpy](https://pypi.org/project/numpy/) to run.
-
-```sh
-pip install numpy
-```
+- Vectors are generated as arrays, so are "out of the box" ready to pass to classification algorithms
 
 ## Example usage
 ```sh
-python simple-example.py # generates an eHf vector for a simple input string
+TODO
 ```
-```sh
-python generate-ehf.py -p <path-to-data> # generates an eHf vector and corresponding labels for use as a dataset 
-Note: assumes data is in folders named after each class
-```
+
