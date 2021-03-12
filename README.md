@@ -11,6 +11,6 @@ eHf is a library that converts input data from any format into a feature vector 
 
 ## Example usage
 ```sh
-TODO
+python example.py # generates an eHf vector for a simple input string
 ```
 
